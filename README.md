@@ -5,6 +5,8 @@ This repository contains my solutions to SQL challenges from LeetCode and other 
 ## Categories
 - Basics
   - [Problem 1: Low Fat and Recyclable Products](Basics/LowFatAndRecyclable.sql)
+  - [Problem 2: Find Customers Not Referred by Customer ID 2](Basics/FindCustomersNotReferred.sql)
+
 
 ## Progress
-Solved: 1/50 problems
+Solved: 2/50 problems
