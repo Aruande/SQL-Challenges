@@ -7,14 +7,6 @@ Description: Red30 Tech is conducting a comprehensive analysis of their digital 
              write a SQL query that selects track names, composers, and unit prices, and categorizes each track based on its price.
 */
 
-
-
-
-
-
-
-
-
 SELECT 
     Name AS "Track Name",
     Composer,
