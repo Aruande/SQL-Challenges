@@ -9,7 +9,8 @@ This repository contains my solutions to SQL challenges from LeetCode and other 
   - [Problem 3: Find Size of Countries by Area or Population](Basics/BigCountries.sql)
   - [Problem 4: Find all the authors that viewed at least one of their own articles](Basics/ArticleViews.sql)
   - [Problem 5: Categorize all Tracks by price](CategorizeTracksbyPrice.sql)
+  - [Problem 6: Invalid Tweets](InvalidTweets.sql)
 
 
 ## Progress
-Solved: 5/50 problems
+Solved: 6/50 problems
