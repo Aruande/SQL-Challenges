@@ -12,6 +12,7 @@ This repository contains my solutions to SQL challenges from LeetCode and other 
   - [Problem 6: Invalid Tweets](InvalidTweets.sql)
 ##
 Basic_Joins
+Basic Joins
 
 - [Problem 7: Analyzing Customer Support Interactions](basic_joins/AnalyzingCustomerSupportInteractions.sql)
 
