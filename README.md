@@ -10,7 +10,8 @@ This repository contains my solutions to SQL challenges from LeetCode and other 
   - [Problem 4: Find all the authors that viewed at least one of their own articles](Basics/ArticleViews.sql)
   - [Problem 5: Categorize all Tracks by price](CategorizeTracksbyPrice.sql)
   - [Problem 6: Invalid Tweets](InvalidTweets.sql)
-    
+
+Basic_Joins
 
   -[Problem 7: Analyzing Customer Support Interactions](AnalyzingCustomerSupportInteractions.sql)
 
