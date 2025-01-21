@@ -16,4 +16,4 @@ This repository contains my solutions to SQL challenges from LeetCode and other 
   - [Problem 8: Replace Employee ID with the Unique Identifier](Basic_Joins/ReplaceEmplyeeIdWith_Unique_Identifer.sql)
 
 ## Progress
-Solved: 7/50 problems
+Solved: 8/50 problems
