@@ -13,6 +13,7 @@ This repository contains my solutions to SQL challenges from LeetCode and other 
 
 - Basic_Joins
   - [Problem 7: Analyzing Customer Support Interactions](Basic_Joins/AnalyzingCustomerSupportInteractions.sql)
+  - [Problem 8: Replace Employee ID with the Unique Identifier]()
 
 ## Progress
 Solved: 7/50 problems
